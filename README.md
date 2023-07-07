@@ -4,7 +4,7 @@ The Forestry Inventory and Analysis program sponsored US Department of Agricultu
 
 In this project, I prepare the data for visualization with Python and visualize the cleaned geospatial data with Tableau. I focused on highlighting wood species distribution surrounding the 5 largest cities in Tennessee: Nashville, Memphis, Knoxville, Clarkesville, and Chattanooga. I've included the Python script and a link to the finished [Tableau visualization](https://public.tableau.com/views/TennesseeSpeciesDistribution/TNForestryDashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
 
-![Finished Forestry Tableau Report](/TN Forestry Dashboard.png "Wood Species Distribution Around Major Tennessee Cities")
+![Finished Forestry Tableau Report](TN%20Forestry%20Dashboard.png "Wood Species Distribution Around Major Tennessee Cities")
 
 Skills used:
 - Python data cleaning
